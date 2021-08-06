@@ -15,6 +15,13 @@ To segement the Customers based on RFM so that the company can target its custom
 - Used Agglomerative and Divisive Hierarchical Clustering with 3 clusters based on Dendrogram
 - Analyzed 3 customer segments on the basis of Recency, Frequency, and Monetary
 
+Analysed the Customers based on RFM and created new attributes for same:
+- R (Recency): Number of days since last purchase
+- F (Frequency): Number of tracsactions
+- M (Monetary): Total amount of transactions (revenue contributed)
+
+
+
 ------------------------------------------------------
 ### Variable description:
 
